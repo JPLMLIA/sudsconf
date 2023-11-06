@@ -1,9 +1,7 @@
 title: SUDS Conference 2024
-email: jake.h.lee@jpl.nasa.gov
+email: sudsconf@jpl.nasa.gov
 description: >- 
   The 1st Annual Science Understanding through Data Science (SUDS) Conference
   and Workshop.
-baseurl: ""
-url: "http://sudsconf.com"
-twitter_username: 
+url: "https://sudsconf.com"
 github_username: jplmlia
