@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en" data-bs-theme="light">
+{% include head.html %}
+
+<body>
+  <main>
+    <div class="container py-4">
+      {% include header.html %}
+
+      <!-- Jumbotron -->
+      <div class="p-5 mb-5 bg-body-tertiary rounded-3" id="jumbo">
+        <div class="container-fluid py-5">
+          <h1 class="display-5 fw-bold" style="color: white;">{{page.jumbo_title}}</h1>
+          <p class="col-md-8 fs-4" style="color: white">{{page.jumbo_sub}}</p>
+        </div>
+      </div>
+
+      {{content}}
+    </div>
+    {% include footer.html %}
+  </main>
+</body>
+
+</html>
