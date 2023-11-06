@@ -82,33 +82,34 @@
 
             window.addEventListener('DOMContentLoaded', () => {
                 showActiveTheme(getPreferredTheme())
-
-                if (getPreferredTheme() == 'dark') {
-                    VANTA.WAVES({
-                        el: "#jumbo",
-                        mouseControls: true,
-                        touchControls: true,
-                        gyroControls: false,
-                        minHeight: 200.00,
-                        minWidth: 200.00,
-                        scale: 1.00,
-                        scaleMobile: 1.00,
-                        color: 0x71722,
-                        shininess: 26.00
-                    })
-                } else {
-                    VANTA.WAVES({
-                        el: "#jumbo",
-                        mouseControls: true,
-                        touchControls: true,
-                        gyroControls: false,
-                        minHeight: 200.00,
-                        minWidth: 200.00,
-                        scale: 1.00,
-                        scaleMobile: 1.00,
-                        color: 0x135ba0,
-                        shininess: 26.00
-                    })
+                if (document.getElementById("jumbo")) {
+                    if (getPreferredTheme() == 'dark') {
+                        VANTA.WAVES({
+                            el: "#jumbo",
+                            mouseControls: true,
+                            touchControls: true,
+                            gyroControls: false,
+                            minHeight: 200.00,
+                            minWidth: 200.00,
+                            scale: 1.00,
+                            scaleMobile: 1.00,
+                            color: 0x71722,
+                            shininess: 26.00
+                        })
+                    } else {
+                        VANTA.WAVES({
+                            el: "#jumbo",
+                            mouseControls: true,
+                            touchControls: true,
+                            gyroControls: false,
+                            minHeight: 200.00,
+                            minWidth: 200.00,
+                            scale: 1.00,
+                            scaleMobile: 1.00,
+                            color: 0x135ba0,
+                            shininess: 26.00
+                        })
+                    }
                 }
 
                 document.querySelectorAll('[data-bs-theme-value]')
