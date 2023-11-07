@@ -10,7 +10,7 @@ toc: False
 
 *Please note that no invitations have been sent yet.*
 
-Invitees to the SUDS Workshop should respond to the invitation letter to receive an account to the conference management platform. 
+The SUDS Workshop is invite-only, and we anticipate less than 30 participants. Invitees should respond to the invitation letter to receive an account to the conference management platform. 
 
 ### SUDS Conference
 
