@@ -8,13 +8,13 @@
       {% include header.html %}
 
       <!-- Jumbotron -->
-      <div class="p-5 mb-5 bg-body-tertiary rounded-3" id="jumbo">
-        <div class="container-fluid py-5">
+      <div class="p-5 mb-3 bg-body-tertiary rounded-3" id="jumbo">
+        <div class="container-fluid py-3">
           <h1 class="display-5 fw-bold" style="color: white;">{{page.jumbo_title}}</h1>
           <p class="col-md-8 fs-4" style="color: white">{{page.jumbo_sub}}</p>
+          <a class="btn btn-info" href="https://forms.gle/tMGRpYrSaxF2Yncy9" role="button">Receive Email Updates</a>
         </div>
       </div>
-
       {{content}}
     </div>
     {% include footer.html %}

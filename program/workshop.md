@@ -11,7 +11,7 @@ toc: True
 
 The SUDS Workshop is an invited opportunity for SUDS leaders across many institutions to define, prioritize, and unify vision, elements, and roles.
 
-## Monday, [TBD]
+## Monday, August 19th, 2024
 
 ---
 
@@ -71,7 +71,7 @@ Additional sessions will be scheduled by participants.
 
 ---
 
-## Tuesday, [TBD]
+## Tuesday, August 20th, 2024
 
 ### SUDS for Independent Research and Development
 *8:30 AM - 10:00 AM (90 min), Room [TBD], Caltech*

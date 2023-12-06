@@ -8,7 +8,8 @@ toc: False
 Email the committee at: [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov)
 
 ## Contributing Organizations
-[TBD]
+- [Science Understanding through Data Science (SUDS) @ JPL](https://www.jpl.nasa.gov/go/suds)
+- [TBD]
 
 ## Organizing Committee
-[TBD]
+- [TBD]

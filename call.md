@@ -9,20 +9,20 @@ toc: True
 
 # Conference Call for Abstracts
 
-The Science Understanding through Data Science (SUDS) Conference Committee invites authors to submit an abstract for the 1st Annual SUDS Conference, held in-person at the California Institute of Technology from **[TBD]** to **[TBD]**. The complete schedule is available at **[TBD]**.
+The Science Understanding through Data Science (SUDS) Conference Committee invites authors to submit an abstract for the 1st Annual SUDS Conference, held in-person at the California Institute of Technology from **August 21st to 23rd, 2024**. The complete schedule is available at **[TBD]**.
 
 ## Reviews and Timeline
 - Submission Deadline: **[TBD]**
 - Acceptance Notification: **[TBD]**
 - Presentations and Posters Deadline: **[TBD]**
-- Conference: **[TBD]**
+- Conference: **August 21st to 23rd, 2024**
 
 Abstracts will be reviewed for quality and alignment. Accepted abstracts will then be apportioned a 30-minute invited oral session, a 15-minute lightning oral session, or a poster presentation based on author preference and availability. Due to the small scale of this inaugural year, we anticipate a limited number (<200) of attendees.
 
 ## Introduction
 [SUDS](https://www.jpl.nasa.gov/go/suds) began as an internal initiative at the Caltech/NASA Jet Propulsion Laboratory to develop and implement a roadmap for creating scientific understanding based on state-of-the-art data science methodologies. However, it is a need shared across organizations, institutions, research domains, and countries. The central organizing principle of this conference is to create the network of those working on SUDS under different names, research domains, and institutions. 
 
-The SUDS mission statement is "To increase the speed, depth, and rigor of scientific return by revealing new connections through data science.: The goal is to produce more than "an accurate prediction model," but to facilitate new insight and scientific understanding.
+The SUDS mission statement is "To increase the speed, depth, and rigor of scientific return by revealing new connections through data science". The goal is to produce more than "an accurate prediction model," but to facilitate new insight and scientific understanding.
 
 We define data science to include innovative, data-driven approaches such as machine learning and artificial intelligence, often in the presence of existing physical models and/or with a need for uncertainty quantification. 
 
@@ -60,4 +60,5 @@ Authors are encouraged to submit works published within the last year or work cu
 Plagiarism is prohibited by the SUDS Code of Conduct.
 
 LLMs may be used by authors as a writing tool, as long as the author(s) take full responsibility for any and all content in their submission, including any misrepresentations, factual inaccuracies, and plagiarism. 
+
 The presenting author must register for and participate in the conference in order to have their abstracts published.
