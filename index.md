@@ -10,7 +10,8 @@ jumbo_sub: "Workshop: August 19-20th, 2024<br>Conference: August 21-23rd, 2024<b
   <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212863">IN33C Poster</a>; Wed 2023-12-13 2:10PM; Hall A-C
 </div>
 
-# Bringing Together Physical Scientists and Data Scientists
+# Science Understanding through Data Science
+#### *Bringing Together Physical Scientists and Data Scientists*
 
 We invite researchers, leaders, practicioners, and students to join us for our 1st annual SUDS Workshop and Conference!
 
