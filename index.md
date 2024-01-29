@@ -4,12 +4,6 @@ jumbo_title: "1<sup>st</sup> SUDS Workshop and Conference"
 jumbo_sub: "Workshop: August 19-20th, 2024<br>Conference: August 21-23rd, 2024<br> California Insitute of Technology, Pasadena, CA"
 ---
 
-<div class="alert alert-info" role="alert">
-  <b>Join SUDS at AGU Fall 2023!</b> <br>
-  <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/213262">IN32A Oral</a>; Wed 2023-12-13 10:20AM; 2014 West<br>
-  <a href="https://agu.confex.com/agu/fm23/meetingapp.cgi/Session/212863">IN33C Poster</a>; Wed 2023-12-13 2:10PM; Hall A-C
-</div>
-
 # Science Understanding through Data Science
 #### *Bringing Together Physical Scientists and Data Scientists*
 
