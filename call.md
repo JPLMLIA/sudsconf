@@ -12,7 +12,7 @@ toc: True
 The Science Understanding through Data Science (SUDS) Conference Committee invites authors to submit an abstract for the 1st Annual SUDS Conference, held in-person at the California Institute of Technology from **August 21st to 23rd, 2024**. The complete schedule is available at **[TBD]**.
 
 ## Reviews and Timeline
-- Submission Deadline: **May 3rd, 2024 [TBD]**
+- Submission Deadline: **May 3rd, 2024**
 - Acceptance Notification: **[TBD]**
 - Conference: **August 21st to 23rd, 2024**
 
