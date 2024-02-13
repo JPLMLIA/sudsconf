@@ -9,7 +9,7 @@ toc: True
 
 # SUDS Workshop
 
-The SUDS Workshop is an invited opportunity for SUDS leaders across many institutions to define, prioritize, and unify vision, elements, and roles.
+The SUDS Workshop is an invited opportunity for SUDS leaders across many institutions to define, prioritize, and unify vision, elements, and roles. Included below is our current draft of the workshop schedule, but it is still actively being developed.
 
 ## Monday, August 19th, 2024
 
