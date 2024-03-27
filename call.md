@@ -18,7 +18,7 @@ The Science Understanding through Data Science (SUDS) Conference Committee invit
 - Acceptance Notification: **[TBD]**
 - Conference: **August 21st to 23rd, 2024**
 
-Abstracts will be reviewed for quality and alignment. Accepted abstracts will then be apportioned a 30-minute extended oral session, a 15-minute lightning oral session, or a poster presentation based on author preference and availability. Due to the small scale of this inaugural year, we anticipate a limited number (<200) of attendees.
+Abstracts will be reviewed for quality and alignment. Accepted abstracts will then be apportioned a 10+5 lightning oral session and/or a poster presentation based on author preference and availability. Due to the small scale of this inaugural year, we anticipate a limited number (<200) of attendees.
 
 ## Introduction
 [SUDS](https://www.jpl.nasa.gov/go/suds) began as an internal initiative at the Caltech/NASA Jet Propulsion Laboratory to develop and implement a roadmap for creating scientific understanding based on state-of-the-art data science methodologies. However, it is a need shared across organizations, institutions, research domains, and countries. The central organizing principle of this conference is to create the network of those working on SUDS under different names, research domains, and institutions. 
