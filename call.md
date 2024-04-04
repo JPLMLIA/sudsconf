@@ -14,7 +14,7 @@ The Science Understanding through Data Science (SUDS) Conference Committee invit
 **Submissions are open:** [https://cmt3.research.microsoft.com/SUDS2024/](https://cmt3.research.microsoft.com/SUDS2024/)
 
 ## Reviews and Timeline
-- Submission Deadline: **May 3rd, 2024**
+- Submission Deadline: **May 17th, 2024**
 - Acceptance Notification: **[TBD]**
 - Conference: **August 21st to 23rd, 2024**
 
