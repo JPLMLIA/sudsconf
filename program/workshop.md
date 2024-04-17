@@ -9,57 +9,62 @@ toc: True
 
 # SUDS Workshop
 
-The SUDS Workshop is an invited opportunity for SUDS leaders across many institutions to define, prioritize, and unify vision, elements, and roles. Included below is our current draft of the workshop schedule, but it is still actively being developed.
+The SUDS Workshop is an invited opportunity for SUDS leaders across many institutions to define, prioritize, and unify vision, elements, and roles. Included below is our current draft of the workshop schedule, but it is still actively being developed. We anticipate a maximum of 30 participants.
+
+Last updated: April 16th, 2024
 
 ## Monday, August 19th, 2024
 
 ---
 
-### Introductions and Defining SUDS
+### Introductions
 *8:30AM - 10:00AM PST (90 min), Room [TBD], Caltech*
 
 **Objective**
-Introduce participants and identify workshop-level wants, needs, and terms.
+The workshop organizers will provide an overview of the history of SUDS, workshop visions and goals, and create an environment of meaningful and open discussion.
 
 ---
 
-### SUDS Communities and Partnerships
+### Define SUDS 
 *10:30 AM - 12:00 PM (90 min), Room [TBD], Caltech*
 
 **Objective**
-Map the SUDS community landscape by identifying participating institutions, their areas of expertise, thrust areas, and points of contact.
+This session aims to achieve a collective understanding of our purpose, define and contextualize SUDS as a technology, research area, science, and multi-disciplinary effort, and develop a universally comprehensible articulation of SUDS that makes sense to everyone.
+
 
 **Questions**
-- How can we define an institution’s alignment with SUDS objectives?
-- Which institutions are participating in the SUDS community, or are looking to join?
-- What are the priority topic areas for each of these institutions?
-- What are past or ongoing collaborative projects between institutions that proved successful? What elements contributed to this success?
-- What are barriers to these collaborations, and how can they be overcome?
-- How can we continue to foster this community and encourage partnerships?
+- Why are each of us here? What do we personally value and what patterns do we see of shared values across the team?
+- Where are we starting from? Whic path forward is the most important to us as a team?
+- How can we change our culture to value social sciences and interdisciplinary work? 
+- How do we define collaboration, coordination, and co-creation?
 
-**Delivery**
-- A dynamic engagement matrix of institutions, points of contact, and expertise/areas of interest.
-- A plan or platform to reconnect for follow-on discussions
-- A method of educating and bringing new members into the community
+**Deliverable**
+- A clear, concise statement of purpose for the work going forward
 
 ---
 
-### Institutional and Community Challenges to SUDS
+### Identify the SUDS Community
 *1:30 PM - 3:30 PM (120 min), Room [TBD], Caltech*
 
 **Objective**
-Plan how to overcome challenges to SUDS in represented institutions and communities
+Identify the SUDS Community and its range of activities and achieved successes. Determine common elements and relationships, forming a network of participating institutions, their areas of expertise, thrust areas, and points of contact.
 
 **Questions**
-- What challenges are universally faced by most institutions when adopting SUDS initiatives?
-- What are some known viable solutions to these challenges, and how do they scale between institutions?
-- What are some known solutions that are too difficult to implement due to constraints?
-- How can SUDS institutions proactively prepare for challenges arising in the fast-paced landscape of data science?
+- What is our process for building community and carrying out shared decision making?
+- Who is the SUDS community nationwide? 
+- How do you find the others willing to work across interdisciplinary collaborations?
+- What does a healthy SUDS community look like? What can we learn from other highly collaborative communities?
+- What conditions made it possible for attendees of this workshop to be engaged in this kind of collaborative effort? 
+  - (e.g. support from their institution, a particular funded position, etc.)
+- What program managers or institutional leaders can provide top-level support for the SUDS community?
+- Who else should we be reaching out to? 
 
-**Delivery**
-- A structured document that prioritizes challenges by urgency and impact, and their plans of resolution.
-- A taxonomy of challenges by criteria (technological, institutional, cultural, etc.) and their common solution patterns.
-- A guide for new SUDS efforts to subvert common challenges early on.
+**Deliverables**
+- List of key institutions and groups doing SUDS research
+- List of common elements that connect the various communities
+- Preliminary organization of entities and relationships into a network
+- Mechanisms in place for SUDS members to learn from each other and communicate going forward
+- A shared understanding of how to sustain and expand a healthy SUDS community
 
 ---
 
@@ -67,81 +72,95 @@ Plan how to overcome challenges to SUDS in represented institutions and communit
 *4:00 PM - 6:00 PM (120 min)*
 
 **Objective**
-Additional sessions will be scheduled by participants.
+Additional sessions and discussions can be scheduled by participants.
 
 ---
 
 ## Tuesday, August 20th, 2024
 
-### SUDS for Independent Research and Development
+### Identify the Challenges
 *8:30 AM - 10:00 AM (90 min), Room [TBD], Caltech*
 
 **Objective**
-Define and contextualize SUDS as a technology, a research area, as a science, and/or as a multi-disciplinary effort for program managers.
+
+Identify the challenges to SUDS in represented institutions and communities. Articulate failure modes that have been observed and discover the underlying causes.
 
 **Questions**
-- How might SUDS be perceived by different external stakeholders?
-- Why should institutions invest in SUDS? What tangible and intangible benefits arise from such investments?
-- How might SUDS values be articulated to align with the priorities of various different funding bodies?
+- How are SUDS projects evaluated? 
+  - What are appropriate metrics for SUDS proposals (e.g. interdisciplinary journals)?
+- What are the communication barriers between physical science and data science?
+- What are limitations in our current employment categories when it comes to meeting emerging complex research needs?
+  - What are the traditional definitions of the various roles relevant to SUDS research? 
+  - What are the inadequacies of those existing roles for modern research?
+  - What new roles are required/emerging (e.g., Research Software Engineers, Science Community Managers)? 
+- How do we normalize considerations of the relational/social/cultural elements of collaboration in our scientific exchanges?
+- What are  additional efforts required to do SUDS research, as opposed to more traditional research?
+- What resources are available to us (time, funding, community engagement)?
+- How do we get funding agencies onboard? 
 
-**Delivery**
-- A funding advocacy document that articulates the value, benefits, and potential of SUDS.
-- A glossary defining the language used to describe SUDS values in proposals.
-- Strategies for greater success by SUDS PIs 
-- A rubric/guide for reviewers evaluating SUDSy proposals.
+
+**Deliverables**
+- Measures and indicators to appropriately evaluate SUDS efforts
+- Definitions of new roles useful for SUDS efforts
+- Justifications for these efforts to influence policy-makes/funders/institutional leadership
+- Shared community resources for continued interactions
 
 ---
 
-### Industry in SUDS
+### Needed Breakthroughs
 *10:30 AM - 12:00 PM (90 min), Room [TBD], Caltech*
 
 **Objective**
-Understand the scope of industry engagement in SUDS initiatives, specifically areas of focus, mutual benefits, and unique challenges.
+Understand what capacities need to be built to support SUDS efforts given that they require different support than traditional science.
 
 **Questions**
-- Are there any existing SUDSy partnerships between industry and the community?
-- What are the main benefits of SUDS engaging with industry?
-- Why would/should industry want to engage with the SUDS community?
-- What can SUDS institutions learn from industry best practices?
+- How are SUDS individuals cultivated within institutions?
+- How will we know when SUDS has succeeded? What does success look like?
+- What do our experiences suggest are the common failure modes for SUDS projects? 
+- What is an ideal result? What is an acceptable result? What is a not-sufficient result?
+- What are the incentives?
+- What are the benefits of incorporating SUDS into research projects? Why should a PI or Co-I make the extra effort?
 
-**Delivery**
-- An industry partnership statement describing the framework for and expectations from partnerships with industry.
-- Any case studies describing past or ongoing partnerships with industry
+**Deliverables**
+- Explicit motivations for SUDS research 
+- Enumeration of common failure modes and mitigation strategies
+- Recommendations for institutional change that all individuals can use independently
 
 ---
 
-### Organizing and Cultivating the SUDS Discipline
+### Define an Implementation Plan
 *1:30 PM - 3:30 PM (120 min), Room [TBD], Caltech*
 
 **Objective**
-Understand data science ownership models, including fully cross-trained, data science enabled, physical science enabled, and isolated collaboration teams. Assess the scope and compositions of such teams, and determine how to best hire and train practitioners for these teams.
+Define the SUDS vision and how to implement it, intra- and inter-institutionally. Establish recommendations for SUDS capacity building and organizing SUDS efforts within institutions.
+
 
 **Questions**
-- What are the unique challenges to creating SUDS capacity at an institution?
-- How can we train scientists and data scientists for science collaboration?
-- What are the desirable qualities of an early career SUDS practitioner?
-- What are unique PI skills for SUDS?
+- What do we need to learn and apply from an institutional change perspective? 
+- How do we transition from single institutional efforts to multi-institutional consortiums?
+- What has been successful to build SUDS capacity in institutions? 
+- How are SUDS activities organized in each institution? 
+- What are the examples of multi-institutional organizations? 
+
 
 **Delivery**
-- Blueprints for building SUDS capacity within an Institution and across Institutions 
-  - (e.g., sharing resources, student/employee visit programs, ‘scientist/data scientist in residence’ programs, institutional training)
-- Hiring and management standards for SUDS practitioners
+- A strategic plan draft for multi-institutional SUDS, including:
+  - Vision Statement
+  - Mission Statement
+  - Strategic Goals
+  - Objectives
+  - Key Results
+- Opportunities for multi-institutional connections 
 
 ---
 
-### Defining the SUDS Vision
+### Working Period 
 *4:00 PM - 6:00 PM (120 min), Room [TBD], Caltech*
 
 **Objective**
-Collaborate to define the SUDS vision by extracting characteristics from existing cross-institutional SUDSy efforts w/ demonstrated, evidence-based justifications.
+Finalize artifacts from the workshop for communication and socialization during the Conference.
 
 **Questions**
-- What SUDSy efforts exist across the community (JPL, academia, industry)?
-- What are the key pillars of the SUDS vision?
-- Why SUDS?
-- How should the SUDS vision adapt and evolve over time?
-
-**Delivery**
-- A comprehensive document defining the components of the SUDS vision.
-- Steward institutions for each component of the defined vision.
-- A concise summary of the vision agnostic to any particular institution’s perspective.
+- How can we move forward?
+- What can we bring back to our institutions?
+- What core ideas should be shared to request feedback at the conference?
