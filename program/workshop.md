@@ -17,6 +17,17 @@ Recent interdisciplinary collaborations between physical scientists and data sci
 
 If you were invited, please refer to your invitation to register. If you were not invited but are still interested in contributing to this workshop, please reach out to us at [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov), but space is very limited.
 
+## On-Site Facilitators
+- [Lukas Mandrake](https://ml.jpl.nasa.gov/alumni/lukas-mandrake.html) (NASA/Caltech JPL; Earth Data Science and Technology)
+- [Erika Podest](https://science.jpl.nasa.gov/people/Podest/) (NASA/Caltech JPL; Carbon Cycle and Ecosystems)
+- [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
+- [Chris Bard](https://ael.gsfc.nasa.gov/cisto/bio/christopher.m.bard) (NASA Goddard; Center for HelioAnalytics)
+- [Rajesh Gupta](https://datascience.ucsd.edu/people/rajesh-gupta/) (UC San Diego; Halıcıoğlu Data Science Institute)
+- [Amy McGovern](https://mcgovern-fagg.org/amy/) (University of Oklahoma; AI2ES NSF AI Institute)
+- [Barbara Thompson](https://en.wikipedia.org/wiki/Barbara_J._Thompson) (NASA Goddard; Center for HelioAnalytics)
+
+Please see [this page](organizers.html) for our complete steering committee.
+
 ---
 
 # Workshop Agenda
