@@ -17,7 +17,7 @@ Recent interdisciplinary collaborations between physical scientists and data sci
 
 If you were invited, please refer to your invitation to register. If you were not invited but are still interested in contributing to this workshop, please reach out to us at [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov), but space is very limited.
 
-## On-Site Facilitators
+## Conversation Facilitation
 - [Lukas Mandrake](https://ml.jpl.nasa.gov/alumni/lukas-mandrake.html) (NASA/Caltech JPL; Earth Data Science and Technology)
 - [Erika Podest](https://science.jpl.nasa.gov/people/Podest/) (NASA/Caltech JPL; Carbon Cycle and Ecosystems)
 - [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
