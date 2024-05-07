@@ -1,16 +1,50 @@
 ---
 layout: index
-jumbo_title: "1<sup>st</sup> SUDS Workshop and Conference"
-jumbo_sub: "Workshop: August 19-20th, 2024<br>Conference: August 21-23rd, 2024<br> California Insitute of Technology, Pasadena, CA"
+jumbo_title: "1<sup>st</sup> Science Understanding through Data Science Conference"
+jumbo_sub: "August 21-23rd, 2024<br> California Insitute of Technology, Pasadena, CA"
 ---
 
-# Science Understanding through Data Science
-#### *Bringing Together Physical Scientists and Data Scientists*
+<div align='center'>
+<h3><i>To increase the speed, depth, and rigor of scientific return <br> by revealing new connections through data science.</i></h3>
+</div>
+<br>
 
-We invite researchers, leaders, practicioners, and students to join us for our 1st annual SUDS Workshop and Conference!
+<img src="assets/Chen.jpeg" alt="Chen Neuroscience Research Building, Caltech" align="right" style="width: 40%; padding: 1em;" class='img-fluid'/>
+Recent interdisciplinary collaborations between physical scientists and data scientists have yielded significant advancements in both fields. In order to establish a strong community of science and data science collaborators, we invite researchers, practitioners, leaders, and students to join us for our inaugural SUDS Conference.
 
-- The [**Workshop**](/program/workshop.md) is an invite-only opportunity for a small group of institutional leaders to discuss how data scientists and physical scientists can better collaborate.
-- The [**Conference**](/call.md) is an opportunity for students and practitioners to share their experiences, outcomes, and lessons learned from successful collaborations.
-- The [**SUDS Website**](https://www.jpl.nasa.gov/go/suds) and [**Report**](https://www.jpl.nasa.gov/go/suds/suds-report) contain more information about the SUDS effort at the Jet Propulsion Laboratory.
+This three-day conference will feature...
+- Keynotes and panels from experts in SUDS-like collaborations
+- Townhalls for findings from our [Workshop by institutional leaders](program/workshop.html)
+- [Technical posters and talks](call.html) by researchers and students in this fast-growing community
+
+## Dates and Logistics
+- **Abstract Deadline:** May 31st, 2023, 23:59 PDT
+- **Conference:** August 21-23rd, 2023
+- **Location:** Chen Neuroscience Research Building, California Institute of Technology, Pasadena, CA
+- **Attendees:** 200 participants, accepted authors prioritized
+
+## Contributors
+### Keynote Speakers
+
+| - | - |
+| <img src="assets/keynote/amy-mcgovern.jpeg" alt="Amy McGovern" class="keynote" /> | [**Dr. Amy McGovern**](https://mcgovern-fagg.org/amy/) is the director of the NSF AI Institute on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES), and holds dual appointments in the School of Computer Science and the School of Meteorology at the University of Oklahoma. Her research focuses on developing and applying machine learning and data mining methods for real-world applications with a special interest in high-impact weather phenomena including tornados, hail, severe wind events, flooding, drought, and aircraft turbulence.|
+|  | ... four more keynote speakers will be announced soon! |
+
+
+
+### Organizing Committee
+- [Lukas Mandrake](https://ml.jpl.nasa.gov/alumni/lukas-mandrake.html) (NASA/Caltech JPL; Earth Data Science and Technology)
+- [Erika Podest](https://science.jpl.nasa.gov/people/Podest/) (NASA/Caltech JPL; Carbon Cycle and Ecosystems)
+- [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
+- [Jake Lee](https://ml.jpl.nasa.gov/members/jake-lee.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
+- Sam Berndt (NASA/Caltech JPL; Future Technology Exploration and Infusion)
+
+### Steering Committee
+- [Anthony Arendt](https://escience.washington.edu/member/anthony-arendt/) (University of Washington; eScience Institute)
+- [Chris Bard](https://ael.gsfc.nasa.gov/cisto/bio/christopher.m.bard) (NASA Goddard; Center for HelioAnalytics)
+- [Rajesh Gupta](https://datascience.ucsd.edu/people/rajesh-gupta/) (UC San Diego; Halıcıoğlu Data Science Institute)
+- [Amy McGovern](https://mcgovern-fagg.org/amy/) (University of Oklahoma; NSF AI2ES AI Institute)
+- [Barbara Thompson](https://en.wikipedia.org/wiki/Barbara_J._Thompson) (NASA Goddard; Center for HelioAnalytics)
+- [Kiri Wagstaff](https://www.wkiri.com/) (AAAS Science & Technology Policy Fellow)
 
 Thank you for your interest, and we hope to see you there!

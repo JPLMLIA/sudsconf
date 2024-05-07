@@ -7,15 +7,14 @@ toc: True
 - This is a Kramdown TOC placeholder. This text will not appear.
 {:toc}
 
-# Conference Call for Abstracts
+# Call for Abstracts
 
 The Science Understanding through Data Science (SUDS) Conference Committee invites authors to submit an abstract for the 1st Annual SUDS Conference, held in-person at the California Institute of Technology from **August 21st to 23rd, 2024**. The complete schedule will be finalized after acceptance notifications.
 
 **Submissions are open:** [https://cmt3.research.microsoft.com/SUDS2024/](https://cmt3.research.microsoft.com/SUDS2024/)
 
 ## Reviews and Timeline
-- Submission Deadline: **May 17th, 2024**
-- Acceptance Notification: **[TBD]**
+- Submission Deadline: **May 31st, 2024**
 - Conference: **August 21st to 23rd, 2024**
 
 Abstracts will be reviewed for quality and alignment to one of the following sessions. Reviewers may request revisions from the author for clarity. 
