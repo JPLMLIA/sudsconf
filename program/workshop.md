@@ -11,7 +11,7 @@ toc: True
 
 Recent interdisciplinary collaborations between physical scientists and data scientists have yielded significant advancements in both fields. In order to define, prioritize, and unify our vision for these high-value collaborations across institutions, we invite SUDS leaders across institutions to participate in this first-of-kind workshop.
 
-- **Workshop:** August 21-23rd, 2023
+- **Workshop:** August 19-20th, 2023
 - **Location:** Chen, Broad, and Keck Buildings, California Institute of Technology, Pasadena, CA
 - **Attendees:** 30 participants by invite only
 
