@@ -5,9 +5,8 @@ jumbo_sub: "August 21-23rd, 2024<br> California Insitute of Technology, Pasadena
 ---
 
 <div align='center'>
-<h3><i>To increase the speed, depth, and rigor of scientific return <br> by revealing new connections through data science.</i></h3>
+<h3 class='font-fancy'><i>To increase the speed, depth, and rigor of scientific return <br> by revealing new connections through data science.</i></h3>
 </div>
-<br>
 
 <img src="assets/Chen.jpeg" alt="Chen Neuroscience Research Building, Caltech" align="right" style="width: 40%; padding: 1em;" class='img-fluid'/>
 Recent interdisciplinary collaborations between physical scientists and data scientists have yielded significant advancements in both fields. In order to establish a strong community of science and data science collaborators, we invite researchers, practitioners, leaders, and students to join us for our inaugural SUDS Conference.
@@ -18,10 +17,11 @@ This three-day conference will feature...
 - [Technical posters and talks](call.html) by researchers and students in this fast-growing community
 
 ## Dates and Logistics
-- **Abstract Deadline:** May 31st, 2023, 23:59 PDT
-- **Conference:** August 21-23rd, 2023
-- **Location:** Chen Neuroscience Research Building, California Institute of Technology, Pasadena, CA
-- **Attendees:** 200 participants, accepted authors prioritized
+- ~~**First Round Deadline:** &nbsp; May 31st, 2024, 23:59 PDT~~
+- **Second Round Deadline:** &nbsp; June 28th, 2024, 23:59 PDT
+- **Conference:** &nbsp; August 21-23rd, 2024
+- **Location:** &nbsp; Chen Neuroscience Research Building, California Institute of Technology, Pasadena, CA
+- **Attendees:** &nbsp; 200 participants, accepted authors prioritized
 
 ## Contributors
 ### Keynote Speakers
