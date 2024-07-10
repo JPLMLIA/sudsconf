@@ -25,8 +25,8 @@ Airlines that land at the Hollywood Burbank Airport include:
 - Spirit
 - United
 
-[Hollywood Burbank Airport](https://www.hollywoodburbankairport.com/)
-2627 North Hollywood Way
+[Hollywood Burbank Airport](https://www.hollywoodburbankairport.com/)\
+2627 North Hollywood Way\
 Burbank CA 91505
 
 #### Los Angeles International Airport
@@ -34,8 +34,8 @@ One of the US's most important transport hubs, Los Angeles International Airport
 
 Airport code: **LAX**.
 
-[Los Angeles International Airport](https://www.flylax.com/)
-1 World Way
+[Los Angeles International Airport](https://www.flylax.com/)\
+1 World Way\
 Los Angeles CA 90045
 
 ## Accommodations
