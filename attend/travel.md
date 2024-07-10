@@ -37,8 +37,8 @@ Airport code: **LAX**.
 [Los Angeles International Airport](https://www.flylax.com/)\
 1 World Way\
 Los Angeles CA 90045
-\
-\
+
+ \
 ## Accommodations
 We recommend the following hotels near Caltech for your stay during the conference:
 
@@ -71,8 +71,8 @@ Pasadena CA 91103\
 303 Cordova St\
 Pasadena CA 91101\
 +1 626 469 8100
-\
-\
+
+ \
 ## Driving and Parking
 How to get to Caltech and where to park once you're there for the Scientific Understanding through Data Science Conference.
 
