@@ -6,6 +6,8 @@ toc: False
 
 # Travel
 
+If you require a letter for the visa application process, please contact sudsconf@jpl.nasa.gov
+
 ## Air Travel
 Two airports are convenient to attend the Scientific Understanding through Data Science Conference.
 
