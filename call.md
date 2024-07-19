@@ -15,12 +15,13 @@ The Science Understanding through Data Science (SUDS) Conference Committee invit
 
 ## Reviews and Timeline
 - First Round Deadline: &nbsp; ~~May 31st, 2024~~
-- **Second Round Deadline: &nbsp; June 28th, 2024**
+- Second Round Deadline: &nbsp; ~~June 28th, 2024~~
+- Acceptance Notifications: &nbsp; ~~July 10th, 2024~~
+- Author Confirmation Deadline: &nbsp; July 19th, 2024
+- Author Registration Opens: &nbsp; July 22nd, 2024
+- Attendee Registration Opens: &nbsp; Early August
+- Complete Schedule Releases: &nbsp; Early August
 - Conference: &nbsp; August 21st to 23rd, 2024
-
-<div class="alert alert-dark" role="info">
-    By popular request, we have opened a second round of abstract submissions. New authors are encouraged to submit to the second round. Reviews will begin for the first round, and may recommend an optional second revision prior to final decision.
-</div>
 
 Abstracts will be reviewed for quality and alignment to one of the following sessions. Reviewers may request revisions from the author for clarity. 
 - Poster only

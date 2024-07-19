@@ -17,8 +17,9 @@ This three-day conference will feature...
 - [Technical posters and talks](call.html) by researchers and students in this fast-growing community
 
 ## Dates and Logistics
-- ~~**First Round Deadline:** &nbsp; May 31st, 2024, 23:59 PDT~~
-- **Second Round Deadline:** &nbsp; June 28th, 2024, 23:59 PDT
+- **Author Registration Opens:** &nbsp; July 22nd, 2024
+- **Attendee Registration Opens:** &nbsp; Early August
+- **Schedule Releases:** &nbsp; Early August
 - **Conference:** &nbsp; August 21-23rd, 2024
 - **Location:** &nbsp; Chen Neuroscience Research Building, California Institute of Technology, Pasadena, CA
 - **Attendees:** &nbsp; 200 participants, accepted authors prioritized
