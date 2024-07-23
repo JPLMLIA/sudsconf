@@ -6,4 +6,6 @@ toc: False
 
 # Conference Registration
 
-Due to our limited venue size and resources during our inaugural year, we will only be able to accept 200 participants. We will prioritize attendance for authors of accepted abstracts, but we anticipate that other attendees will also be able to participate. [Submitting your one-page abstract](https://sudsconf.com/call.html) is the easiest way to attend this conference, but general registration will be opened after author notification. There will be no registration fee.
+Registration forms have been sent out for authors and co-authors of accepted abstracts. Please contact your primary author for the author registration link. If you are an author and you are unable to access the link, please contact us at sudsconf@jpl.nasa.gov. All authors and co-authors are guaranteed registration, and there is no registration fee.
+
+Due to our limited venue size and resources during our inaugural year, we will only be able to accept 200 participants. We will prioritize attendance for authors of accepted abstracts, but we anticipate that other attendees will also be able to participate. A public registration form will be made available here after author registration is complete.
