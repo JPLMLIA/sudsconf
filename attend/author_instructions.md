@@ -36,7 +36,7 @@ As you prepare your presentation, please keep the following in mind:
     - [FedEx, 1735 E Colorado](https://local.fedex.com/en-us/ca/pasadena/office-2125?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT)
     - [Office Depot, 1130 E Colorado](https://www.officedepot.com/storelocator/ca/pasadena/office-depot-599/print-services/?utm_source=google&utm_medium=organic&utm_campaign=gmb_599_website_print)
 - Authors may upload a digital version of their poster in PDF format to the Author Portal to include it in the proceedings.
-    - *Instructions will follow shortly.*
+    - Select "Create Camera Ready Submission" in CMT to upload your poster.
 
 ## Oral
 
@@ -47,4 +47,4 @@ As you prepare your presentation, please keep the following in mind:
 - Authors **must** upload their slides to their Author Portal prior to the conference.
     - Slides will be pre-loaded on the presentation computer for smooth operation of the conference.
     - Supported formats are **PDF** and **PowerPoint**. Keynote or Open Office files should be exported.
-    - *Instructions will follow shortly.*
+    - Select "Create Camera Ready Submission" in CMT to upload your poster.
