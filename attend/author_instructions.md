@@ -27,6 +27,7 @@ As you prepare your presentation, please keep the following in mind:
     - **Height:** 4 feet (~122 cm)
     - **Width:** 8 feet (~244 cm)
 - The posters will be mounted outdoors under a shade on a cork board with push pins.
+    - Push pins will be provided.
 - There are several businesses near Caltech that may provide poster printing and pick-up services:
     - [FedEx, 855 E Colorado](https://local.fedex.com/en-us/ca/pasadena/office-3701?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT)
     - [FedEx, 1735 E Colorado](https://local.fedex.com/en-us/ca/pasadena/office-2125?cmp=LOC-1001545-3-1-971-1110000-US-US-EN-GPLCOPYANDPRINT)
