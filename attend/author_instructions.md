@@ -4,6 +4,9 @@ title: Author Instructions
 toc: True
 ---
 
+- This is a Kramdown TOC placeholder. This text will not appear.
+{:toc}
+
 # Author Instructions
 
 As you prepare your presentation, please keep the following in mind:
