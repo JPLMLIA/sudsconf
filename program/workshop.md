@@ -26,7 +26,7 @@ If you were invited, please refer to your invitation to register. If you were no
 - [Amy McGovern](https://mcgovern-fagg.org/amy/) (University of Oklahoma; AI2ES NSF AI Institute)
 - [Barbara Thompson](https://en.wikipedia.org/wiki/Barbara_J._Thompson) (NASA Goddard; Center for HelioAnalytics)
 
-Please see [this page](organizers.html) for our complete steering committee.
+Please see [this page](/organizers.html) for our complete steering committee.
 
 ---
 
