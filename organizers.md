@@ -15,7 +15,7 @@ Email the committee at: [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov)
 - [Erika Podest](https://science.jpl.nasa.gov/people/Podest/) (NASA/Caltech JPL; Carbon Cycle and Ecosystems)
 - [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
 - [Jake Lee](https://ml.jpl.nasa.gov/members/jake-lee.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
-- Sam Berndt (NASA/Caltech JPL; Future Technology Exploration and Infusion)
+- [Sam Berndt](https://www.linkedin.com/in/samberndt/) (NASA/Caltech JPL; Future Technology Exploration and Infusion)
 
 ### Steering Committee
 - [Anthony Arendt](https://escience.washington.edu/member/anthony-arendt/) (University of Washington; eScience Institute)
