@@ -16,6 +16,7 @@ Email the committee at: [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov)
 - [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
 - [Jake Lee](https://ml.jpl.nasa.gov/members/jake-lee.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
 - [Sam Berndt](https://www.linkedin.com/in/samberndt/) (NASA/Caltech JPL; Future Technology Exploration and Infusion)
+- [Marcel Kaufmann](http://www.kaufmann.space/) (NASA/Caltech JPL; Future Technology Exploration and Infusion)
 
 ### Steering Committee
 - [Anthony Arendt](https://escience.washington.edu/member/anthony-arendt/) (University of Washington; eScience Institute)

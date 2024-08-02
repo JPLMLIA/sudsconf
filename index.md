@@ -28,9 +28,11 @@ This three-day conference will feature...
 ### Keynote Speakers
 
 | - | - |
-| <img src="assets/keynote/amy-mcgovern.jpeg" alt="Amy McGovern" class="keynote" /> | [**Dr. Amy McGovern**](https://mcgovern-fagg.org/amy/) is the director of the NSF AI Institute on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES), and holds dual appointments in the School of Computer Science and the School of Meteorology at the University of Oklahoma. Her research focuses on developing and applying machine learning and data mining methods for real-world applications with a special interest in high-impact weather phenomena including tornados, hail, severe wind events, flooding, drought, and aircraft turbulence.|
-|  | ... four more keynote speakers will be announced soon! |
-
+| <img src="assets/keynote/Amy-Mcgovern.png" alt="Amy McGovern" class="keynote" /> | [**Dr. Amy McGovern**](https://mcgovern-fagg.org/amy/) is the director of the NSF AI Institute on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES), and holds dual appointments in the School of Computer Science and the School of Meteorology at the University of Oklahoma. Her research focuses on developing and applying machine learning and data mining methods for real-world applications with a special interest in high-impact weather phenomena including tornados, hail, severe wind events, flooding, drought, and aircraft turbulence.|
+| <img src="assets/keynote/Anima-Anandkumar.png" alt="Anima Anandkumar" class="keynote" /> | [**Dr. Anima Anandkumar**](https://www.eas.caltech.edu/people/anima) is the Bren Professor of Computing and Mathematical Sciences at the California Institute of Technology, and co-founder of the AI4Science initiative at Caltech. Her research interests are in the areas of large-scale machine learning, non-convex optimization and high-dimensional statistics. In particular, she has been spearheading the development and analysis of tensor algorithms for machine learning. |
+| <img src="assets/keynote/rose-yu.png" alt="Rose Yu" class="keynote" /> | [**Dr. Rose Yu**](https://datascience.ucsd.edu/people/rose-yu/) is an Assistant Professor at the UC San Diego, Department of Computer Science and Engineering. Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first-principles with data-driven models. |
+| <img src="assets/keynote/Jennifer-Ngadiuba.png" alt="Jennifer Ngadiuba" class="keynote"/> | [**Dr. Jennifer Ngadiuba**](https://www.turing.ac.uk/people/guest-speakers/jennifer-ngadiuba) is Associate Scientist with Wilson Fellowship at the Fermi National Accelerator Laboratory, the leading facility for particle physics research in the United States. She is specialised in the application of AI to particle physics towards more intelligent detector systems, data reduction and data analysis strategies. This ensures the efficient extraction of the most fundamental physics information from the multitude of data collected at the Large Hadron Collider (LHC), the world's highest-energy particle physics experiment located at the CERN laboratory (Switzerland-France). |
+| | One more speaker TBD! |
 
 
 ### Organizing Committee
@@ -39,6 +41,7 @@ This three-day conference will feature...
 - [Ryan McGranaghan](https://ml.jpl.nasa.gov/members/ryan-mcgranaghan.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
 - [Jake Lee](https://ml.jpl.nasa.gov/members/jake-lee.html) (NASA/Caltech JPL; Machine Learning and Instrument Autonomy)
 - [Sam Berndt](https://www.linkedin.com/in/samberndt/) (NASA/Caltech JPL; Future Technology Exploration and Infusion)
+- [Marcel Kaufmann](http://www.kaufmann.space/) (NASA/Caltech JPL; Future Technology Exploration and Infusion)
 
 ### Steering Committee
 - [Anthony Arendt](https://escience.washington.edu/member/anthony-arendt/) (University of Washington; eScience Institute)
