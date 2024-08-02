@@ -82,9 +82,23 @@ How to get to Caltech and where to park once you're there for the Scientific Und
 The Scientific Understanding through Data Science Conference will be held in the [Chen Neuroscience Research Building](https://maps.app.goo.gl/wNfyYdLEA8ZrptnAA) in the northwestern corner of the California Institute of Technology's campus on S Wilson Ave between E Del Mar Blvd and San Pasqual St.
 
 #### Parking at Caltech
-Caltech has several paid parking lots. An all-day pass is $9. [More information on parking is available at the Caltech parking site](https://parking.caltech.edu/parking-info/visitor-parking).
+Limited parking is available. Carpooling or use of public transportation is recommended.
+
+Park at Structures 1 or 3 in unreserved parking spots only. Reserved and Carpool parking spots are off limits.
+
+![image](https://github.com/JPLMLIA/sudsconf/blob/main/assets/parking.png)
+
+[More information on parking is available at the Caltech parking site](https://parking.caltech.edu/parking-info/visitor-parking).
 
 An [interactive campus map is also available](https://www.caltech.edu/map/campus).
 
+##### Parking Payment
+Pay at kiosk in parking structure. \
+$9 daily pass \
+$27 weekly pass
+
 #### Walking
 Several of the meeting hotels are close to Caltech and walking to the meeting location is a viable option. The neighborhoods are generally safe in and around Caltech. Weather may be quite hot, however.
+
+#### Public Transportation from LA
+Take Gold Line to Allen Station. Pasadena Bus 10 to Wilson & Del Mar.
