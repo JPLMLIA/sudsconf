@@ -12,7 +12,7 @@ toc: True
 Recent interdisciplinary collaborations between physical scientists and data scientists have yielded significant advancements in both fields. In order to define, prioritize, and unify our vision for these high-value collaborations across institutions, we invite SUDS leaders across institutions to participate in this first-of-kind workshop.
 
 - **Workshop:** August 19-20th, 2023
-- **Location:** Chen, Broad, and Keck Buildings, California Institute of Technology, Pasadena, CA
+- **Location:** [Keck Center, California Institute of Technology, Pasadena, CA](https://www.kiss.caltech.edu/directions.html)
 - **Attendees:** 30 participants by invite only
 
 If you were invited, please refer to your invitation to register. If you were not invited but are still interested in contributing to this workshop, please reach out to us at [sudsconf@jpl.nasa.gov](mailto:sudsconf@jpl.nasa.gov), but space is very limited.
@@ -32,20 +32,36 @@ Please see [this page](/organizers.html) for our complete steering committee.
 
 # Workshop Agenda
 
+## Schedule at a Glance
+
+<img src="/assets/workshop-sched-glance.png" alt="Workshop Schedule" style="max-width:60%;"/>
+
+---
+
 ## Monday, August 19th, 2024
 
-### Introductions
-*8:30AM - 10:00AM PST (90 min), Room [TBD], Caltech*  
-*Facilitated by Lukas Mandrake (JPL), Erika Podest (JPL)*
+---
+
+### 8:00 Badging, Coffee, and Breakfast 
+
+---
+
+### 8:30 Introductions
+*8:30AM - 10:00AM PST (90 min), Keck Center, Caltech*  
+*Facilitated by Lukas Mandrake (JPL), Sue Owen (JPL)*
 
 **Objective**  
 The workshop organizers will provide an overview of the history of SUDS, workshop visions and goals, and create an environment of meaningful and open discussion.
 
 ---
 
-### Define SUDS 
-*10:30 AM - 12:00 PM (90 min), Room [TBD], Caltech*  
-*Facilitated by TBA*
+### 10:00 Coffee 
+
+---
+
+### 10:30 Define SUDS 
+*10:30 AM - 12:00 PM (90 min), Keck Center, Caltech*  
+*Facilitated by Ryan McGranaghan (JPL) and Amy McGovern (NSF AI2ES)*
 
 **Objective**  
 This session aims to achieve a collective understanding of our purpose, define and contextualize SUDS as a technology, research area, science, and multi-disciplinary effort, and develop a universally comprehensible articulation of SUDS that makes sense to everyone.
@@ -62,9 +78,13 @@ This session aims to achieve a collective understanding of our purpose, define a
 
 ---
 
-### Identify the SUDS Community
-*1:30 PM - 3:30 PM (120 min), Room [TBD], Caltech*  
-*Facilitated by Ryan McGranaghan (JPL) and Amy McGovern (NSF AI2ES; OU)*
+### 12:00 Lunch
+
+---
+
+### 13:30 Identify the SUDS Community
+*1:30 PM - 3:30 PM (120 min), Keck Center, Caltech*  
+*Facilitated by Ryan McGranaghan (JPL) and Amy McGovern (NSF AI2ES)*
 
 **Objective**  
 Identify the SUDS Community and its range of activities and achieved successes. Determine common elements and relationships, forming a network of participating institutions, their areas of expertise, thrust areas, and points of contact.
@@ -88,19 +108,13 @@ Identify the SUDS Community and its range of activities and achieved successes. 
 
 ---
 
-### Working Meetings and Spontaneous Sessions
-*4:00 PM - 6:00 PM (120 min)*
-
-**Objective**
-Additional sessions and discussions can be scheduled by participants.
+### 15:30 Coffee
 
 ---
 
-## Tuesday, August 20th, 2024
-
-### Identify the Challenges
-*8:30 AM - 10:00 AM (90 min), Room [TBD], Caltech*  
-*Facilitated by Barbara Thompson (NASA GSFC) and TBA*
+### 16:00 Identify the Challenges
+*4:00 PM - 6:00 PM (120 min), Keck Center, Caltech*  
+*Facilitated by Barbara Thompson (NASA GSFC) and Rajesh Gupta (UCSD)*
 
 **Objective**  
 Identify the challenges to SUDS in represented institutions and communities. Articulate failure modes that have been observed and discover the underlying causes.
@@ -127,8 +141,29 @@ Identify the challenges to SUDS in represented institutions and communities. Art
 
 ---
 
-### Needed Breakthroughs
-*10:30 AM - 12:00 PM (90 min), Room [TBD], Caltech*  
+### 18:00 Dinner
+
+---
+
+## Tuesday, August 20th, 2024
+
+---
+
+### 8:00 Coffee and Breakfast
+
+---
+
+### 8:30 Recap and Emergent Topics
+*8:30AM - 9:30 AM (60 min), Keck Center, Caltech*
+
+---
+
+### 9:30 Coffee
+
+---
+
+### 10:00 Needed Breakthroughs
+*10:00 AM - 12:00 PM (120 min), Keck Center, Caltech*  
 *Facilitated by Chris Bard (NASA GSFC) and Erika Podest (JPL)*
 
 **Objective**  
@@ -149,9 +184,13 @@ Understand what capacities need to be built to support SUDS efforts given that t
 
 ---
 
-### Define an Implementation Plan
-*1:30 PM - 3:30 PM (120 min), Room [TBD], Caltech*  
-*Facilitated by Lukas Mandrake (JPL) and Amy McGovern (NSF AI2ES; OU)*
+### 12:00 Lunch
+
+---
+
+### 13:30 Define an Implementation Plan
+*1:30 PM - 3:30 PM (120 min), Keck Center, Caltech*  
+*Facilitated by Lukas Mandrake (JPL) and Amy McGovern (NSF AI2ES)*
 
 **Objective**  
 Define the SUDS vision and how to implement it, intra- and inter-institutionally. Establish recommendations for SUDS capacity building and organizing SUDS efforts within institutions.
@@ -176,8 +215,12 @@ Define the SUDS vision and how to implement it, intra- and inter-institutionally
 
 ---
 
-### Working Period 
-*4:00 PM - 6:00 PM (120 min), Room [TBD], Caltech*
+### 15:30 Coffee
+
+---
+
+### 16:00 Working Period 
+*4:00 PM - 6:00 PM (120 min), Keck Center, Caltech*
 
 **Objective**  
 Finalize artifacts from the workshop for communication and socialization during the Conference.
@@ -186,3 +229,7 @@ Finalize artifacts from the workshop for communication and socialization during 
 - How can we move forward?
 - What can we bring back to our institutions?
 - What core ideas should be shared to request feedback at the conference?
+
+---
+
+### 18:00 Dinner
