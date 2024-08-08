@@ -28,4 +28,91 @@
   </main>
 </body>
 
+<style>
+  td {
+    padding: 0.5rem;
+    vertical-align: top;
+  }
+  th {
+    padding: 0.5rem;
+  }
+
+</style>
+
+<script>
+  class ContributedTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-primary">Contributed</span>';
+    }
+  }
+
+  class LightningTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-info">Lightning</span>';
+    }
+  }
+
+  class PosterTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-light">Poster</span>';
+    }
+  }
+
+  class PSTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-secondary">Planetary Science</span>';
+    }
+  }
+
+  class ESTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-success">Earth Science</span>';
+    }
+  }
+
+  class SPTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-warning">Space Physics</span>';
+    }
+  }
+
+  class HTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-warning">Heliophysics</span>';
+    }
+  }
+
+  class CTag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-danger">Cosmology</span>';
+    }
+  }
+
+  class ATag extends HTMLElement {
+    constructor() {
+      super();
+      this.innerHTML = '<span class="badge rounded-pill text-bg-danger">Astronomy</span>';
+    }
+  }
+  
+  customElements.define('cont-tag', ContributedTag);
+  customElements.define('light-tag', LightningTag);
+  customElements.define('poster-tag', PosterTag);
+  customElements.define('es-tag', ESTag);
+  customElements.define('ps-tag', PSTag);
+  customElements.define('sp-tag', SPTag);
+  customElements.define('hp-tag', HTag);
+  customElements.define('c-tag', CTag);
+  customElements.define('a-tag', ATag);
+
+</script>
+
 </html>
