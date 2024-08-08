@@ -83,7 +83,7 @@ toc: True
 
 ---
 
-### 1:30-2:30 Townhall: Challenges in SUDS
+### 1:30-2:30 Townhall: Needed Breakthroughs
 *Broad 100*
 
 ---
@@ -107,7 +107,7 @@ toc: True
 
 ---
 
-### 3:30-4:30 Townhall: Needed Breakthroughs
+### 3:30-4:30 Townhall: Implementation Plan
 *Broad 100*
 
 ---
