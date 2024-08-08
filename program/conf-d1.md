@@ -102,7 +102,7 @@ toc: True
 | 49 | 4:15-4:30 | <light-tag/> <poster-tag/> <es-tag/> | **Causal Discovery for Aerosol-Cloud Interactions** <br> <small> Giorgia Nicolaou (UCSD)*; Duncan Watson-Parris (University of California San Diego) </small> |
 | 56 | 4:30-4:45 | <light-tag/> <poster-tag/> <es-tag/> | **Observing System Simulation Experiments (OSSEs) as Tools for New Mission Design, Model Development,  and Scientific Experimentation** <br> <small> Derek Posselt (Jet Propulsion Laboratory, California Institute of Technology)* </small> |
 | 84 | 4:45-5:00 | <light-tag/> <poster-tag/> <es-tag/> | **Engaging a Community of Practice: Highlights from JPL's SUDS Educational Working Group** <br> <small> Jonathan Hobbs (Jet Propulsion Laboratory, California Institute of Technology)*; Mark Wronkiewicz (Jet Propulsion Laboratory); Erika Podest (JPL) </small> |
-| 2 | 5:00-5:30 | <light-tag/> <poster-tag/> <a-tag/> | **Expediting Astronomical Discovery with Large Language Models: Progress, Challenges, and Future Directions** <br> <small> Yuan-Sen Ting (The Australian National University)* </small> |
+| 2 | 5:00-5:30 | <cont-tag/> <poster-tag/> <a-tag/> | **Expediting Astronomical Discovery with Large Language Models: Progress, Challenges, and Future Directions** <br> <small> Yuan-Sen Ting (The Australian National University)* </small> |
 
 <style>
 .keynote {
