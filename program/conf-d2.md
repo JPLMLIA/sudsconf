@@ -83,7 +83,7 @@ toc: True
 
 ---
 
-### 1:30-2:30 Townhall: Needed Breakthroughs
+### 1:30-2:30 Townhall: Challenges and Needed Breakthroughs
 *Broad 100*
 
 ---
@@ -105,12 +105,6 @@ toc: True
 | 46 | 4:30-5:00 | <cont-tag/> <hp-tag/> | **Into the Storm:  AI/Anomaly Detection Approaches for Geospace Superstorm Investigations** <br> <small> Janet U Kozyra (NASA)*; Hannah R Marlowe (Amazon Web Services); Delores J Knipp (Unviersity of Colorado Boulder); Liam Kilcommons (University of Colorado Boulder); Yigit Aytac (Amazon Web Services); Ekaterina Verner (NASA) </small> |
 | 8 | 5:00-5:30 | <cont-tag/> <hp-tag/> | **Machine learning in the reconstruction and interpretation of radiation belt dynamics** <br> <small> Jacob Bortnik (UCLA)* </small> |
 
----
-
-### 3:30-4:30 Townhall: Implementation Plan
-*Broad 100*
-
----
 
 <style>
 .keynote {
