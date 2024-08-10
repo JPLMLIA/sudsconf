@@ -38,7 +38,11 @@ toc: True
 
 ---
 
-### 10:45-12:00 Wednesday Poster Session
+### 10:45-11:00 Coffee Break
+
+---
+
+### 11:00-12:00 Wednesday Poster Session
 *Chen Breezeway*
 
 | - | - | - | 
