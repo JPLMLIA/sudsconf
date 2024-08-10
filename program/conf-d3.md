@@ -7,7 +7,7 @@ toc: True
 - This is a Kramdown TOC placeholder. This text will not appear.
 {:toc}
 
-# Friday, August 23nd
+# Friday, August 23rd
 
 - [Schedule-at-a-glance](/program/glance.html) is available for a graphical view of the program.
 
