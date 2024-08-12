@@ -19,8 +19,8 @@ The Science Understanding through Data Science (SUDS) Conference Committee invit
 - Acceptance Notifications: &nbsp; ~~July 10th, 2024~~
 - Author Confirmation Deadline: &nbsp; ~~July 19th, 2024~~
 - Author Registration Opens: &nbsp; July 22nd, 2024
-- Attendee Registration Opens: &nbsp; Early August
-- Complete Schedule Releases: &nbsp; Early August
+- Attendee Registration Opens: &nbsp; August 12th, 2024
+- Complete Schedule Releases: &nbsp; August 12th, 2024
 - Conference: &nbsp; August 21st to 23rd, 2024
 
 Abstracts will be reviewed for quality and alignment to one of the following sessions. Reviewers may request revisions from the author for clarity. 

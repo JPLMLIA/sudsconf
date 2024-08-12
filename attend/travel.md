@@ -1,8 +1,11 @@
 ---
 layout: page
 title: Travel
-toc: False
+toc: True
 ---
+
+- This is a Kramdown TOC placeholder. This text will not appear.
+{:toc}
 
 # Travel
 
@@ -84,18 +87,19 @@ The Scientific Understanding through Data Science Conference will be held in the
 #### Parking at Caltech
 Limited parking is available. Carpooling or use of public transportation is recommended.
 
-Park at Structures 1 or 3 in unreserved parking spots only. Reserved and Carpool parking spots are off limits.
-
-![image](https://github.com/JPLMLIA/sudsconf/blob/main/assets/parking.png)
+Park at Structures 1 or 3 in unreserved parking spots only. Reserved and Carpool parking spots are off limits. Reserved spots have names written on the curb, whereas non-reserved spots only have numbers.
 
 [More information on parking is available at the Caltech parking site](https://parking.caltech.edu/parking-info/visitor-parking).
 
 An [interactive campus map is also available](https://www.caltech.edu/map/campus).
 
 ##### Parking Payment
-Pay at kiosk in parking structure. \
-$9 daily pass \
-$27 weekly pass
+Pay at kiosk in parking structure.
+- $9 daily pass
+- $27 weekly pass
+- JPL staff may use their hangtags.
+
+<img src="/assets/parking.png"/>
 
 #### Walking
 Several of the meeting hotels are close to Caltech and walking to the meeting location is a viable option. The neighborhoods are generally safe in and around Caltech. Weather may be quite hot, however.

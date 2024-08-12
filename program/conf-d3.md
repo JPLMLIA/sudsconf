@@ -16,9 +16,11 @@ toc: True
 
 ---
 
-### 8:30-9:30 Keynote: TBA
+### 8:30-9:30 Keynote: Dr. Elizabeth Davison
 *Chen 100, overflow Chen 130*
 
+| - | - |
+| <img src="/assets/keynote/elizabeth-davison.png" alt="Elizabeth Davison" class="keynote"/> | [**Dr. Elizabeth Davison**](https://www.chapman.edu/engineering/about/faculty/affiliate-faculty/elizabeth-davison.aspx) is an Associate Principal Director at The Aerospace Corporation and a Professor of Practice in the Champman University Fowler School of Engineering. Her research interests center around the application and development of mathematical methods from an engineering and physics perspective to examine complex dynamical systems. |
 ---
 
 ### 9:30-10:30 Townhall: The Future of SUDS
@@ -80,3 +82,10 @@ toc: True
 
 ### 4:00-5:00 Closing Keynote
 *Chen 100, overflow Chen 130*
+
+<style>
+.keynote {
+  width: 9em;
+  padding: 0.5em;
+}
+</style>
