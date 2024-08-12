@@ -21,6 +21,7 @@ toc: True
 
 | - | - |
 | <img src="/assets/keynote/elizabeth-davison.png" alt="Elizabeth Davison" class="keynote"/> | [**Dr. Elizabeth Davison**](https://www.chapman.edu/engineering/about/faculty/affiliate-faculty/elizabeth-davison.aspx) is an Associate Principal Director at The Aerospace Corporation and a Professor of Practice in the Champman University Fowler School of Engineering. Her research interests center around the application and development of mathematical methods from an engineering and physics perspective to examine complex dynamical systems. |
+
 ---
 
 ### 9:30-10:30 Townhall: The Future of SUDS
