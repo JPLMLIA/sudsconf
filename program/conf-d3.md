@@ -20,7 +20,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - |
-| <img src="/assets/keynote/elizabeth-davison.png" alt="Elizabeth Davison" class="keynote"/> | [**Dr. Elizabeth Davison**](https://www.chapman.edu/engineering/about/faculty/affiliate-faculty/elizabeth-davison.aspx) is an Associate Principal Director at The Aerospace Corporation and a Professor of Practice in the Chapman University Fowler School of Engineering. Her research interests center around the application and development of mathematical methods from an engineering and physics perspective to examine complex dynamical systems. |
+| <img src="/assets/keynote/elizabeth-davison.png" alt="Elizabeth Davison" class="keynote"/> | [**Dr. Liz Davison**](https://www.chapman.edu/engineering/about/faculty/affiliate-faculty/elizabeth-davison.aspx) is the Associate Principal Director of the Integrated Data and Applications Subdivision at the Aerospace Corporation and a Professor of Practice in the Fowler School of Engineering at Chapman University. The Integrated Data and Applications Subdivision includes departments dedicated to Data Science, Data Engineering/Architecture, Visualization, and more. Dr. Davison's research centers around the application and development of mathematical methods from an engineering and physics perspective to examine complex dynamical systems. |
 
 ---
 
