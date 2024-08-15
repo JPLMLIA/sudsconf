@@ -49,10 +49,10 @@ toc: True
 | 57 | <poster-tag/> <es-tag/> | **Are We Bridging the Gap? Interactions Between Data Science and Physical Science at JPL in 2022** <br> <small> Michael Garay (NASA)*; Virisha Timmaraju (Jet Propulsion Laboratory, California Institute of Technology) </small> |
 | 73 | <poster-tag/> <ps-tag/> | **Accelerating Data Ingestion with Machine Learning at the NASA Exoplanet Archive** <br> <small> Nicholas Susemiehl (NASA Exoplanet Archive)* </small> |
 | 76 | <poster-tag/> <es-tag/> | **Advancing Wildfire Prediction Through Simplicial Graph Neural Networks for Partial Differential Equations** <br> <small> Jae W Choi (UT Dallas)*; Yuzhou Chen (Temple University); Hugo K Lee (NASA JPL Caltech); Hyun C Kim (NOAA/ARL); Yulia R. Gel (The University of Texas at Dallas) </small> |
+| 77 | <poster-tag/> <es-tag/> | **Efficient and innovative analysis of NASA's high-resolution observations and modeling datasets** <br> <small> Hugo K Lee (NASA JPL Caltech)*; Valerio Pascucci (University of Utah); Manish Parashar (University of Utah) </small> |
 | 79 | <poster-tag/> <es-tag/> | **Data-driven cloud-to-ground lightning probability model for the Alaskan boreal and tundra ecosystems using machine learning and the Weather Research & Forecasting model** <br> <small> Jordan A Caraballo-Vega (NASA GSFC)*; Tatiana Loboda (UMD); Mark Carroll (NASA GSFC); Dong Chen (UMD); Allison Bredder (UMD); Michael Martinez-Vega (UPRH) </small> |
 | 80 | <poster-tag/> <hp-tag/> | **Automating Plasma Region Identification of Planetary Magnetospheres Using Machine Learning** <br> <small> Wenli Mo (JHU/APL)* </small> |
 | 81 | <poster-tag/> <es-tag/> | **Improved Segmentation of Palm Oil Farms and Deforestation Prevention using Self-Supervised Deep Learning** <br> <small> Naiara Pinto (JPL); Nicholas J LaHaye (JPL)* </small> |
-| 88 | <poster-tag/> <es-tag/> | **Novel High Resolution Image Segmentation for Small Holder Farms in the Global South** <br> <small> Michelle Lin (McGill University)* </small> |
 
 ---
 

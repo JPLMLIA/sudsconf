@@ -60,8 +60,8 @@ toc: True
 | 65 | <poster-tag/> <es-tag/> | **Optimizing the First-Order Radiative Transfer Model Using Deep Residual Networks for NISAR Soil Moisture Retrieval** <br> <small> Xiaodong Huang (Jet Propulsion Laboratory)*; Lorenzo Giuliano Papale (Tor Vergata University of Rome); Marco Lavalle (Jet Propulsion Laboratory	); Heresh Fattahi (Jet Propulsion Laboratory); Rowena Lohman (Cornell University) </small> |
 | 68 | <poster-tag/> <sp-tag/> | **Modeling Turbulent and Self-Gravitating Fluids with Fourier Neural Operators** <br> <small> Keith Poletti (University of Texas at Austin)*; Stella Offner (University of Texas at Aust); Rachel Ward (University of Texas) </small> |
 | 74 | <poster-tag/> <es-tag/> | **OCO-3 Gain Instability Patterns Revealed by CDS Pedestal Clusters** <br> <small> Robert A Rosenberg (JPL)*; Yuliya Marchetti (JPL); Graziela Keller (JPL) </small> |
-| 77 | <poster-tag/> <es-tag/> | **Efficient and innovative analysis of NASA's high-resolution observations and modeling datasets** <br> <small> Hugo K Lee (NASA JPL Caltech)*; Valerio Pascucci (University of Utah); Manish Parashar (University of Utah) </small> |
 | 83 | <poster-tag/> <es-tag/> | **Quantum Leap: Evaluating the Feasibility of Quantum Machine Learning with NASA Earth Observational Data** <br> <small> Thilanka Munasinghe (University At Albany)*; Phung Lai (SUNY-Albany); James Hendler (RPI); Jennifer Wei (NASA) </small> |
+| 88 | <poster-tag/> <es-tag/> | **Novel High Resolution Image Segmentation for Small Holder Farms in the Global South** <br> <small> Michelle Lin (McGill University)* </small> |
 
 ---
 
