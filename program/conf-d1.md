@@ -108,6 +108,32 @@ toc: True
 
 ---
 
+### 6:30-8:30 Happy Hour @ Der Wolf
+*Der Wolf Pasadena, Rear Patio*
+
+Join us for food and drinks with the SUDS community!
+
+<div class="dw">
+  <img src="/assets/der-wolf.jpg"/>
+</div>
+
+**Location:**
+- [Der Wolf Pasadena](https://www.thederwolfpasadena.com/)
+- *72 N Fair Oaks Ave, Pasadena, CA 91103*
+- *Old Town Pasadena*
+
+**Transportation:**
+- 8 minute drive. Parking:
+  - [School House Garage](https://maps.app.goo.gl/ScAmXrvXNe1rEkRv7) (Cheaper, 6 min walk)
+  - [One Colorado Garage](https://maps.app.goo.gl/2cXuojgrocPTaZ8x6) (More expensive, 1 min walk)
+- Public Transportation
+  - [Pasadena Transit Route 10](https://maps.app.goo.gl/jZCkTehCUFSQDY7c8) (11 min+) [(timetable)](https://www.cityofpasadena.net/pasadena-transit/wp-content/uploads/sites/19/PT-Route-10-Schedule.pdf)
+  - `Del Mar Blvd & Wilson Ave` to `Colorado / Fair Oaks`
+  - $0.75 Cash or TAP Transit Card only - **No Credit Cards**
+- We will assist in arranging carpools.
+
+---
+
 # Poster Map
 
 <div class="map">
@@ -122,5 +148,9 @@ toc: True
 
 .map img{
   max-width: 100%;
+}
+
+.dw img{
+  max-width: 25%;
 }
 </style>
