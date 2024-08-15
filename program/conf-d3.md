@@ -84,9 +84,21 @@ toc: True
 ### 4:00-5:00 Closing Keynote
 *Chen 100, overflow Chen 130*
 
+---
+
+# Poster Map
+
+<div class="map">
+  <img src="/assets/maps/fri-poster-map.jpg"/>
+</div>
+
 <style>
 .keynote {
   width: 9em;
   padding: 0.5em;
+}
+
+.map img{
+  max-width: 100%;
 }
 </style>

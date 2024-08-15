@@ -106,10 +106,21 @@ toc: True
 | 84 | 4:45-5:00 | <light-tag/> <poster-tag/> <es-tag/> | **Engaging a Community of Practice: Highlights from JPL's SUDS Educational Working Group** <br> <small> Jonathan Hobbs (Jet Propulsion Laboratory, California Institute of Technology)*; Mark Wronkiewicz (Jet Propulsion Laboratory); Erika Podest (JPL) </small> |
 | 2 | 5:00-5:30 | <cont-tag/> <poster-tag/> <a-tag/> | **Expediting Astronomical Discovery with Large Language Models: Progress, Challenges, and Future Directions** <br> <small> Yuan-Sen Ting (The Australian National University)* </small> |
 
+---
+
+# Poster Map
+
+<div class="map">
+  <img src="/assets/maps/wed-poster-map.jpg"/>
+</div>
 
 <style>
 .keynote {
   width: 9em;
   padding: 0.5em;
+}
+
+.map img{
+  max-width: 100%;
 }
 </style>
