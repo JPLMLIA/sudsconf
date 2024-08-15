@@ -87,7 +87,7 @@ The Scientific Understanding through Data Science Conference will be held in the
 #### Parking at Caltech
 Limited parking is available. Carpooling or use of public transportation is recommended.
 
-Park at Structures 1 or 3 in unreserved parking spots only. Reserved and Carpool parking spots are off limits. Reserved spots have names written on the curb, whereas non-reserved spots only have numbers.
+Park at <a href="https://maps.app.goo.gl/RbRH534831PGVQa87">Structure 1</a> or <a href="https://maps.app.goo.gl/RdAF4xmPs8dVQSqx6">Structure 3</a> in unreserved parking spots only. Reserved and Carpool parking spots are off limits. Reserved spots have names written on the curb, whereas non-reserved spots only have numbers.
 
 [More information on parking is available at the Caltech parking site](https://parking.caltech.edu/parking-info/visitor-parking).
 
