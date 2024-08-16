@@ -142,7 +142,7 @@ Identify the challenges to SUDS in represented institutions and communities. Art
 ---
 
 ### 18:15 Dinner
-[Saldaang Garden](https://www.saladang-garden.com/) \
+[Saladang Garden](https://www.saladang-garden.com/) \
 383 S Fair Oaks Ave, Pasadena, CA 91105
 
 
