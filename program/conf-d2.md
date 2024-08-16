@@ -24,11 +24,11 @@ toc: True
 
 ---
 
-### 9:15-10:00 Keynote: Dr. Amy McGovern
+### 9:15-10:00 Keynote: Dr. Anima Anandkumar
 *Chen 100, overflow Chen 130*
 
 | - | - |
-| <img src="/assets/keynote/Amy-Mcgovern.png" alt="Amy McGovern" class="keynote" /> | [**Dr. Amy McGovern**](https://mcgovern-fagg.org/amy/) is the director of the NSF AI Institute on Trustworthy AI in Weather, Climate, and Coastal Oceanography (AI2ES), and holds dual appointments in the School of Computer Science and the School of Meteorology at the University of Oklahoma. Her research focuses on developing and applying machine learning and data mining methods for real-world applications with a special interest in high-impact weather phenomena including tornados, hail, severe wind events, flooding, drought, and aircraft turbulence.|
+| <img src="/assets/keynote/Anima-Anandkumar.png" alt="Anima Anandkumar" class="keynote" /> | [**Dr. Anima Anandkumar**](https://www.eas.caltech.edu/people/anima) is the Bren Professor of Computing and Mathematical Sciences at the California Institute of Technology, and co-founder of the AI4Science initiative at Caltech. Her research interests are in the areas of large-scale machine learning, non-convex optimization and high-dimensional statistics. In particular, she has been spearheading the development and analysis of tensor algorithms for machine learning. |
 
 ---
 
