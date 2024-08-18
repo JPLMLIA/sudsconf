@@ -53,6 +53,7 @@ toc: True
 | 79 | <poster-tag/> <es-tag/> | **Data-driven cloud-to-ground lightning probability model for the Alaskan boreal and tundra ecosystems using machine learning and the Weather Research & Forecasting model** <br> <small> Jordan A Caraballo-Vega (NASA GSFC)*; Tatiana Loboda (UMD); Mark Carroll (NASA GSFC); Dong Chen (UMD); Allison Bredder (UMD); Michael Martinez-Vega (UPRH) </small> |
 | 80 | <poster-tag/> <hp-tag/> | **Automating Plasma Region Identification of Planetary Magnetospheres Using Machine Learning** <br> <small> Wenli Mo (JHU/APL)* </small> |
 | 81 | <poster-tag/> <es-tag/> | **Improved Segmentation of Palm Oil Farms and Deforestation Prevention using Self-Supervised Deep Learning** <br> <small> Naiara Pinto (JPL); Nicholas J LaHaye (JPL)* </small> |
+| 83 | <poster-tag/> <es-tag/> | **Quantum Leap: Evaluating the Feasibility of Quantum Machine Learning with NASA Earth Observational Data** <br> <small> Thilanka Munasinghe (University At Albany)*; Phung Lai (SUNY-Albany); James Hendler (RPI); Jennifer Wei (NASA) </small> |
 
 ---
 
