@@ -61,7 +61,7 @@ toc: True
 
 ---
 
-### 1:30-3:00 Oral 5
+### 1:30-3:30 Oral 5
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
