@@ -61,7 +61,7 @@ The workshop organizers will provide an overview of the history of SUDS, worksho
 
 ### 10:30 Define SUDS 
 *10:30 AM - 12:00 PM (90 min), Keck Center, Caltech*  
-*Facilitated by Ryan McGranaghan (JPL) and Amy McGovern (NSF AI2ES)*
+*Facilitated by Lukas Mandrake (JPL), Sue Owen (JPL)*
 
 **Objective**  
 This session aims to achieve a collective understanding of our purpose, define and contextualize SUDS as a technology, research area, science, and multi-disciplinary effort, and develop a universally comprehensible articulation of SUDS that makes sense to everyone.
