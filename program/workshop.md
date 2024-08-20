@@ -9,6 +9,10 @@ toc: True
 
 # SUDS Workshop
 
+<div class="alert alert-warning" role="info">
+  Significant changes have been made to the Day 2 Agenda.
+</div>
+
 Recent interdisciplinary collaborations between physical scientists and data scientists have yielded significant advancements in both fields. In order to define, prioritize, and unify our vision for these high-value collaborations across institutions, we invite SUDS leaders across institutions to participate in this first-of-kind workshop.
 
 - **Workshop:** August 19-20th, 2023
@@ -82,7 +86,7 @@ This session aims to achieve a collective understanding of our purpose, define a
 
 ---
 
-### 13:30 Identify the SUDS Community
+### 1:30 Identify the SUDS Community
 *1:30 PM - 3:30 PM (120 min), Keck Center, Caltech*  
 *Facilitated by Ryan McGranaghan (JPL) and Amy McGovern (NSF AI2ES)*
 
@@ -108,11 +112,11 @@ Identify the SUDS Community and its range of activities and achieved successes. 
 
 ---
 
-### 15:30 Coffee
+### 2:30 Coffee
 
 ---
 
-### 16:00 Identify the Challenges
+### 4:00 Identify the Challenges
 *4:00 PM - 6:00 PM (120 min), Keck Center, Caltech*  
 *Facilitated by Barbara Thompson (NASA GSFC) and Rajesh Gupta (UCSD)*
 
@@ -141,7 +145,7 @@ Identify the challenges to SUDS in represented institutions and communities. Art
 
 ---
 
-### 18:15 Dinner
+### 6:15 Dinner
 [Saladang Garden](https://www.saladang-garden.com/) \
 383 S Fair Oaks Ave, Pasadena, CA 91105
 
@@ -155,85 +159,31 @@ Identify the challenges to SUDS in represented institutions and communities. Art
 
 ### 8:00 Coffee and Breakfast
 
----
+### 8:30 Recap
+*8:30 AM - 9:00 AM (30 min), Keck Center, Caltech*
 
-### 8:30 Recap and Emergent Topics
-*8:30AM - 9:30 AM (60 min), Keck Center, Caltech*
+### 9:00 Reorientation
+*9:00 AM - 10:00 AM (60 min), Keck Center, Caltech*
 
----
+### 10:00 Coffee
+*10:00 AM- 10:30 AM (30 min), Keck Center, Caltech*
 
-### 9:30 Coffee
-
----
-
-### 10:00 Needed Breakthroughs
-*10:00 AM - 12:00 PM (120 min), Keck Center, Caltech*  
-*Facilitated by Chris Bard (NASA GSFC) and Erika Podest (JPL)*
-
-**Objective**  
-Understand what capacities need to be built to support SUDS efforts given that they require different support than traditional science.
-
-**Questions**
-- How are SUDS individuals cultivated within institutions?
-- How will we know when SUDS has succeeded? What does success look like?
-- What do our experiences suggest are the common failure modes for SUDS projects? 
-- What is an ideal result? What is an acceptable result? What is a not-sufficient result?
-- What are the incentives?
-- What are the benefits of incorporating SUDS into research projects? Why should a PI or Co-I make the extra effort?
-
-**Deliverables**
-- Explicit motivations for SUDS research 
-- Enumeration of common failure modes and mitigation strategies
-- Recommendations for institutional change that all individuals can use independently
-
----
+### 10:30 First Draft of Convergence Concepts
+*10:30 AM- 12:00 PM (90 min), Keck Center, Caltech*
 
 ### 12:00 Lunch
+*12:00 AM - 1:30 PM (90 min), Keck Center, Caltech*
+
+### 1:30 Second Draft of Convergence Concepts
+*1:30 PM - 3:00 PM (90 min), Keck Center, Caltech*
+
+### 3:00 Coffee
+*3:00 PM - 3:30 PM (30 min), Keck Center, Caltech*
+
+### 3:30 Formalization of Convergence Concepts
+*3:30 - 5:00 PM (90 min), Keck Center, Caltech*
+
+### 5:00 Working
+*5:00 onwards, Keck Center, Caltech*
 
 ---
-
-### 13:30 Define an Implementation Plan
-*1:30 PM - 3:30 PM (120 min), Keck Center, Caltech*  
-*Facilitated by Lukas Mandrake (JPL) and Amy McGovern (NSF AI2ES)*
-
-**Objective**  
-Define the SUDS vision and how to implement it, intra- and inter-institutionally. Establish recommendations for SUDS capacity building and organizing SUDS efforts within institutions.
-
-
-**Questions**
-- What do we need to learn and apply from an institutional change perspective? 
-- How do we transition from single institutional efforts to multi-institutional consortiums?
-- What has been successful to build SUDS capacity in institutions? 
-- How are SUDS activities organized in each institution? 
-- What are the examples of multi-institutional organizations? 
-
-
-**Delivery**
-- A strategic plan draft for multi-institutional SUDS, including:
-  - Vision Statement
-  - Mission Statement
-  - Strategic Goals
-  - Objectives
-  - Key Results
-- Opportunities for multi-institutional connections 
-
----
-
-### 15:30 Coffee
-
----
-
-### 16:00 Working Period 
-*4:00 PM - 6:00 PM (120 min), Keck Center, Caltech*
-
-**Objective**  
-Finalize artifacts from the workshop for communication and socialization during the Conference.
-
-**Questions**
-- How can we move forward?
-- What can we bring back to our institutions?
-- What core ideas should be shared to request feedback at the conference?
-
----
-
-### 18:00 Dinner
