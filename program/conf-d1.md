@@ -25,7 +25,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
-| ID  | Time | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Time | Tags | Description |
 | - | - | - | - |
 | 71 | 9:45 - 10:15 AM | <cont-tag/> <es-tag/> | **Sampling Strategies and Insights for Fine-tuning Earth Observation Foundation Models for Diverse Downstream Tasks** <br> <small> Anna Jungbluth (European Space Agency)*; Laura Martínez-Ferrer (University of Valencia); Matthew J Allen (University of Cambridge); Joseph A. Gallego-Mejia (Drexel University); Francisco Dorr (Independent); Freddie Kalaitzis (University of Oxford); Raul Ramos-Pollan (Universidad de Antioquia) </small> |
 | 27-D1 | 10:15 - 10:30 AM | <light-tag/> <poster-tag/> <ps-tag/> | **Data Scientists and Physical Scientists Working Together to Create a Novel and Comprehensive Map of Martian Frost** <br> <small> Serina Diniega (Jet Propulsion Laboratory)*; Mark Wronkiewicz (Jet Propulsion Laboratory); Gary Doran (Jet Propulsion Laboratory); You Lu (Jet Propulsion Laboratory); Umaa Rebbapragada (JPL); Jacob Widmer (University of California, Los Angeles) </small> |
@@ -41,7 +41,7 @@ toc: True
 *Chen Breezeway*
 
 | - | - | - | 
-| ID  | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Tags | Description |
 | - | - | - |
 | 13-A2 | <poster-tag/> <es-tag/> | **Demonstrating Onboard Inference for Earth Science Applications with Spectral Algorithms and Deep Learning** <br> <small> Itai Zilberstein (Jet Propulsion Laboratory, California Institute of Technology)*; Steve Chien (Jet Propulsion Laboratory, California Institute of Technology); Alberto Candela (Jet Propulsion Laboratory, California Institute of Technology); David Rijlaarsdam (Ubotica Technologies); Leonie Buckley (Ubotica Technologies); Tom Hendrix (Ubotica Technologies); Aubrey Dunne (Ubotica Technologies) </small> |
 | 14-B2 | <poster-tag/> <es-tag/> | **Global Land Change and Disturbance Mapping from Sentinel-1 OPERA RTC** <br> <small> Harris Hardiman-Mostow (UCLA); Charlie Z Marshak (JPL)*; Alexander Handwerger (JPL); Talib Oliver-Cabrera (JPL); Richard West (JPL); Jungkyo Jung (JPL) </small> |
@@ -93,7 +93,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
-| ID  | Time | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Time | Tags | Description |
 | - | - | - | - |
 | 11-C1 | 4:00-4:15 | <light-tag/> <poster-tag/> <es-tag/> | **Connecting Science and Data Science for the Orbiting Carbon Observatory-2** <br> <small> William Keely (The University of Oklahoma)*; Steffen Mauceri (Jet Propulsion Laboratory) </small> |
 | 49-C3 | 4:15-4:30 | <light-tag/> <poster-tag/> <es-tag/> | **Causal Discovery for Aerosol-Cloud Interactions** <br> <small> Giorgia Nicolaou (UCSD)*; Duncan Watson-Parris (University of California San Diego) </small> |

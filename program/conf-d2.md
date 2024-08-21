@@ -46,7 +46,7 @@ toc: True
 *Chen Breezeway*
 
 | - | - | - | 
-| ID  | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Tags | Description |
 | - | - | - |
 | 3-C3 | <poster-tag/> <es-tag/> | **Forecasting Permafrost Carbon Dynamics in Alaska with Earth Observation Data and Artificial Intelligence** <br> <small> Bradley A Gay (Jet Propulsion Laboratory)*; Neal Pastick (United States Geological Survey); Jennifer Watts (Woodwell Climate Research Center); Amanda Armstrong (National Aeronautics and Space Administration); Kimberley Miner (Jet Propulsion Laboratory); Charles Miller (Jet Propulsion Laboratory) </small> |
 | 6-B5 | <poster-tag/> <sp-tag/> | **Getting Fit: Principled Model Selection and Validation in Space Weather** <br> <small> Daniel Brandt (Michigan Tech Research Institute)*; Erick Vega (Michigan Tech Research Institute) </small> |
@@ -72,7 +72,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
-| ID  | Time | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Time | Tags | Description |
 | - | - | - | - |
 | 20 | 1:30-2:00 | <cont-tag/> <span class="badge rounded-pill text-bg-secondary">Data Science</span> | **Machine Learning for Everyone: An MBx Approach** <br> <small> Barbara J Thompson (NASA Goddard Space Flight Center)*; Mark Carroll (NASA Goddard Space Flight Center); Daniel E da Silva (NASA/GSFC, UMBC); Robert Morganstern (NASA Goddard Space Flight Center) </small> |
 | 58-D2 | 2:00-2:15 | <light-tag/> <poster-tag/> <es-tag/> | **Three-dimensional mesoscale eddy kinetic energy in the global ocean estimated from integrating altimetry and profiling float observations** <br> <small> Alison Gray (University of Washington)* </small> |
@@ -95,7 +95,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
-| ID  | Time | Tags | Description |
+| ID&emsp;&emsp;&nbsp; | Time | Tags | Description |
 | - | - | - | - |
 | 43-D4 | 3:30-3:45 | <light-tag/> <poster-tag/> <a-tag/> |**Learning from the Machines** <br> <small> Nima Sedaghat (University of Washington)* </small> |
 | - | 3:45-4:00 |  | *Withdrawn* |

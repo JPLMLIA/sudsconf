@@ -38,7 +38,7 @@ toc: True
 *Chen Breezeway*
 
 | - | - | - | 
-| ID  | Tags | Description |
+| ID&emsp;&emsp;&ensp; | Tags | Description |
 | - | - | - |
 | 4-A2 | <poster-tag/> <es-tag/> | **Data Science for Paleohydrology on Orbital Timescales** <br> <small> Alexander James (University of Southern California)* </small> |
 | 10-A5 | <poster-tag/> <sp-tag/> | **Neural Surrogate HMC: Accelerated Hamiltonian Monte Carlo with a Neural Network Surrogate Likelihood** <br> <small> Linnea M Wolniewicz (University of Hawaii at Manoa)*; Peter Sadowski (University of Hawaii Manoa); Claudio Corti (University of Hawaii Manoa) </small> |
@@ -65,7 +65,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - | - | - |
-| ID  | Time | Tags | Description |
+| ID&emsp;&emsp;&ensp; | Time | Tags | Description |
 | - | - | - | - |
 | 42-C4 | 1:30-1:45 | <light-tag/> <poster-tag/> <a-tag/> | **Enhancing Scientific Understanding through Explainable AI: GWSkyNet and GWSkyNet-Multi Models on LIGO-Virgo Data** <br> <small> Ashish Mahabal (California Institute Of Technology)*; Nayyer Raza (McGill University); Man Leong Chan (University of British Columbia); Daryl Haggard (McGill University); Jess McIver (University of British Columbia) </small> |
 | 82-D4 | 1:45-2:00 | <light-tag/> <poster-tag/> <c-tag/> | **Enhancing Cosmological Simulations with Efficient and Interpretable Machine Learning in the Wavelet Basis** <br> <small> Cooper H Jacobus (UC Berkeley)*; Jia Liu (Kavli IPMU); Leander Thiele (Princeton University);  Zarija Lukić (Lawrence Berkeley National Laboratory (Berkeley Lab)) </small> |
