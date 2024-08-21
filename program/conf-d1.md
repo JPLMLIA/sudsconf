@@ -75,7 +75,7 @@ toc: True
 *Chen 100, overflow Chen 130*
 
 | - | - |
-| <img src="/assets/keynote/rose-yu.png" alt="Rose Yu" class="keynote" /> | [**Dr. Rose Yu**](https://datascience.ucsd.edu/people/rose-yu/) is an Assistant Professor at the UC San Diego, Department of Computer Science and Engineering. Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first-principles with data-driven models. |
+| <img src="/assets/keynote/rose-yu.png" alt="Rose Yu" class="keynote" /> | [**Dr. Rose Yu**](https://datascience.ucsd.edu/people/rose-yu/) is an Associate Professor at the UC San Diego, Department of Computer Science and Engineering. Her research focuses on advancing machine learning techniques for large-scale spatiotemporal data analysis, with applications to sustainability, health, and physical sciences. A particular emphasis of her research is on physics-guided AI which aims to integrate first-principles with data-driven models. |
 
 ---
 
