@@ -82,7 +82,7 @@ toc: True
 
 ---
 
-### 1:30-2:30 Townhall: Challenges and Needed Breakthroughs
+### 1:30-2:30 Townhall: The State of SUDS 
 *Broad 100*
 
 ---

@@ -33,11 +33,6 @@ toc: True
 
 ---
 
-### 9:45-10:45 Townhall: The SUDS Community
-*Broad 100*
-
----
-
 ### 10:45-11:00 Coffee Break
 
 ---
