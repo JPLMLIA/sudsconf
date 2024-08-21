@@ -98,7 +98,7 @@ toc: True
 | ID  | Time | Tags | Description |
 | - | - | - | - |
 | 43 | 3:30-3:45 | <light-tag/> <poster-tag/> <a-tag/> |**Learning from the Machines** <br> <small> Nima Sedaghat (University of Washington)* </small> |
-| 38 | 3:45-4:00 | <light-tag/> <poster-tag/> <a-tag/> | **Reducing the Dimensions of the  Astronomical Archive Manifolds** <br> <small> Shoubaneh Hemmati (Caltech/IPAC)* </small> |
+| - | 3:45-4:00 |  | *Withdrawn* |
 | 5 | 4:00-4:15 | <light-tag/> <poster-tag/> <es-tag/> | **Predictive Insights in Hydrology with Hybrid Physics and Data Sciences for Climate Adaptation** <br> <small> Puja Das (Northeastern University)*; August Posch (Northeastern University); Nathan Barber (Tennessee Valley Authority); Kate Duffy (BAER Institute / NASA); Thomas Vandal (NASA / Bay Area Environmental Research Institute); Michael Hicks (Tennessee Valley Authority); Debjani Singh (Oak Ridge National Laboratory); Auroop Ganguly (Northeastern) </small> |
 | 45 | 4:15-4:30 | <light-tag/> <poster-tag/> <es-tag/> | **Forecasting community water system outages** <br> <small> Monica G Bobra (State of California Office of Data and Innovation)*; Dan Wang (California State Water Resources Control Board, Division of Drinking Water) </small> |
 | 46 | 4:30-5:00 | <cont-tag/> <hp-tag/> | **Into the Storm:  AI/Anomaly Detection Approaches for Geospace Superstorm Investigations** <br> <small> Janet U Kozyra (NASA)*; Hannah R Marlowe (Amazon Web Services); Delores J Knipp (Unviersity of Colorado Boulder); Liam Kilcommons (University of Colorado Boulder); Yigit Aytac (Amazon Web Services); Ekaterina Verner (NASA) </small> |
